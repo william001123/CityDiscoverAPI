@@ -1,0 +1,30 @@
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI\CityDiscoverOper\bin\Release\net6.0\CityDiscoverOper.deps.json
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI\CityDiscoverOper\bin\Release\net6.0\CityDiscoverOper.dll
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI\CityDiscoverOper\bin\Release\net6.0\CityDiscoverOper.pdb
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI\CityDiscoverOper\bin\Release\net6.0\CityDiscoverDom.dll
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI\CityDiscoverOper\bin\Release\net6.0\CityDiscoverDom.pdb
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI\CityDiscoverOper\obj\Release\net6.0\CityDiscoverOper.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI\CityDiscoverOper\obj\Release\net6.0\CityDiscoverOper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI\CityDiscoverOper\obj\Release\net6.0\CityDiscoverOper.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI\CityDiscoverOper\obj\Release\net6.0\CityDiscoverOper.AssemblyInfo.cs
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI\CityDiscoverOper\obj\Release\net6.0\CityDiscoverOper.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI\CityDiscoverOper\obj\Release\net6.0\CityDiscoverOper.csproj.CopyComplete
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI\CityDiscoverOper\obj\Release\net6.0\CityDiscoverOper.dll
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI\CityDiscoverOper\obj\Release\net6.0\refint\CityDiscoverOper.dll
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI\CityDiscoverOper\obj\Release\net6.0\CityDiscoverOper.pdb
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI\CityDiscoverOper\obj\Release\net6.0\ref\CityDiscoverOper.dll
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI - copia (2)\CityDiscoverOper\bin\Release\net6.0\CityDiscoverOper.deps.json
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI - copia (2)\CityDiscoverOper\bin\Release\net6.0\CityDiscoverOper.dll
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI - copia (2)\CityDiscoverOper\bin\Release\net6.0\CityDiscoverOper.pdb
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI - copia (2)\CityDiscoverOper\bin\Release\net6.0\CityDiscoverDom.dll
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI - copia (2)\CityDiscoverOper\bin\Release\net6.0\CityDiscoverDom.pdb
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI - copia (2)\CityDiscoverOper\obj\Release\net6.0\CityDiscoverOper.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI - copia (2)\CityDiscoverOper\obj\Release\net6.0\CityDiscoverOper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI - copia (2)\CityDiscoverOper\obj\Release\net6.0\CityDiscoverOper.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI - copia (2)\CityDiscoverOper\obj\Release\net6.0\CityDiscoverOper.AssemblyInfo.cs
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI - copia (2)\CityDiscoverOper\obj\Release\net6.0\CityDiscoverOper.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI - copia (2)\CityDiscoverOper\obj\Release\net6.0\CityDiscoverOper.csproj.CopyComplete
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI - copia (2)\CityDiscoverOper\obj\Release\net6.0\CityDiscoverOper.dll
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI - copia (2)\CityDiscoverOper\obj\Release\net6.0\refint\CityDiscoverOper.dll
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI - copia (2)\CityDiscoverOper\obj\Release\net6.0\CityDiscoverOper.pdb
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI - copia (2)\CityDiscoverOper\obj\Release\net6.0\ref\CityDiscoverOper.dll

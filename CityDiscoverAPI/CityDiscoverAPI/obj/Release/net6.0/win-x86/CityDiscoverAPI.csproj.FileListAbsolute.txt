@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI\CityDiscoverAPI\obj\Release\net6.0\win-x86\CityDiscoverAPI.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI\CityDiscoverAPI\obj\Release\net6.0\win-x86\CityDiscoverAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI\CityDiscoverAPI\obj\Release\net6.0\win-x86\CityDiscoverAPI.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI\CityDiscoverAPI\obj\Release\net6.0\win-x86\CityDiscoverAPI.AssemblyInfo.cs
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI\CityDiscoverAPI\obj\Release\net6.0\win-x86\CityDiscoverAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Programación Móvil\CityDiscover\CityDiscoverAPI\CityDiscoverAPI\obj\Release\net6.0\win-x86\CityDiscoverAPI.MvcApplicationPartsAssemblyInfo.cache
